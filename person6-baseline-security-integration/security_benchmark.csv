@@ -1,0 +1,11 @@
+metric,value
+original_payload_bytes,172398
+encrypted_payload_bytes,172414
+payload_overhead_bytes,16
+payload_overhead_percent,0.00928085012587153
+average_encryption_time_ms,0.07311000081244856
+min_encryption_time_ms,0.05929998587816954
+max_encryption_time_ms,0.10149998706765473
+average_decryption_time_ms,0.05009999731555581
+min_decryption_time_ms,0.043199979700148106
+max_decryption_time_ms,0.059999991208314896

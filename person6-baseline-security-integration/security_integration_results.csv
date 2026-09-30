@@ -1,0 +1,9 @@
+metric,value
+original_payload_bytes,172398
+encrypted_payload_bytes,172414
+payload_overhead_bytes,16
+payload_overhead_percent,0.00928085012587153
+encryption_time_ms,0.11250001261942089
+decryption_time_ms,0.04650000482797623
+total_security_processing_time_ms,0.1590000174473971
+weights_verified,True
