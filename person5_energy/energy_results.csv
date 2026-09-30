@@ -1,2 +1,4 @@
 experiment,execution_time_seconds,average_power_watts,energy_joules,measurement_type,measurement_method
 Federated LSTM,275.02192689996446,5.654352078497495,1555.0708039992,measured,Windows Energy Meter RAPL_Package0_PKG cumulative energy
+Centralized LSTM,17.416897199989762,13.990338187248602,243.6682820004,measured,Windows Energy Meter RAPL_Package0_PKG cumulative energy
+Edge-Cloud LSTM,328.2939087,9.84744615519332,3232.8565890012,measured,Windows Energy Meter RAPL_Package0_PKG cumulative energy
