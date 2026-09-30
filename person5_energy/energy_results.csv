@@ -1,0 +1,2 @@
+experiment,execution_time_seconds,average_power_watts,energy_joules,measurement_type,measurement_method
+Federated LSTM,275.02192689996446,5.654352078497495,1555.0708039992,measured,Windows Energy Meter RAPL_Package0_PKG cumulative energy
