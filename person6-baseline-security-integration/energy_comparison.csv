@@ -1,0 +1,4 @@
+Model,Minimum Energy (KJ),Maximum Energy (KJ),Average Energy (KJ)
+Federated / FLyer,4,6,5.0
+Edge-Cloud,8,10,9.0
+Cloud,12,14,13.0
