@@ -1,0 +1,10 @@
+Metric,Value,Unit
+Original payload,172398,bytes
+Encrypted payload,172414,bytes
+Payload overhead,16,bytes
+Payload overhead percent,0.00928085012587153,%
+Encryption time,0.11250001261942089,ms
+Decryption time,0.04650000482797623,ms
+Security processing per transmission,0.1590000174473971,ms
+Security processing per round,1.272000139579177,ms
+Security processing - 20 rounds,25.440002791583538,ms

@@ -1,0 +1,2 @@
+model,mae,mse,rmse,r2,clients,rounds,local_epochs,batch_size,seed
+Edge-Cloud LSTM,1131.724609375,1564671.625,1250.8683483884306,-0.05872666835784912,4,20,5,32,42

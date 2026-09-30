@@ -1,0 +1,2 @@
+test,original_size_bytes,encrypted_size_bytes,encryption_time_ms,decryption_time_ms,status
+Actual FL weights,172398,172414,0.1139,0.0674,SUCCESS

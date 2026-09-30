@@ -1,0 +1,13 @@
+metric,value,unit
+num_clients,4,clients
+num_rounds,20,rounds
+communication_link_latency,137.9184,ms
+original_payload,172398.0,bytes
+encrypted_payload,172414.0,bytes
+payload_overhead,16.0,bytes
+payload_overhead_percent,0.00928085012587153,%
+encryption_time,0.11250001261942089,ms
+decryption_time,0.04650000482797623,ms
+security_processing_per_transmission,0.1590000174473971,ms
+security_processing_per_round,1.272000139579177,ms
+total_security_processing_20_rounds,25.440002791583538,ms
